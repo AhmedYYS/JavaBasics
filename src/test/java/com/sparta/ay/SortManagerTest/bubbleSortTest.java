@@ -1,5 +1,6 @@
-package com.sparta.ay;
+package com.sparta.ay.SortManagerTest;
 
+import com.sparta.ay.SortManager.BubbleSorter.bubbleSort;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
