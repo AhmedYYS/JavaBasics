@@ -1,0 +1,9 @@
+2022-06-07T11:29:45.3447829 INFO this is an information message
+2022-06-07T11:29:45.3747027 FINE this is a fine message
+2022-06-07T11:29:45.3747027 WARNING this is a Warning message
+2022-06-07T11:34:43.9641609 INFO this is an information message
+2022-06-07T11:34:44.0000894 FINE this is a fine message
+2022-06-07T11:34:44.0000894 WARNING this is a Warning message
+2022-06-07T16:12:08.5924291 INFO this is an information message
+2022-06-07T16:12:08.625341 FINE this is a fine message
+2022-06-07T16:12:08.626339 WARNING this is a Warning message

@@ -1,4 +1,4 @@
-package com.sparta.ay;
+package com.sparta.ay.Generics;
 
 public class Box<T> {
 
